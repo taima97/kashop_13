@@ -1,0 +1,15 @@
+C:\Users\hp\Desktop\asp\api\KASHOP\KASHOP.BBL\bin\Debug\net9.0\KASHOP.BBL.deps.json
+C:\Users\hp\Desktop\asp\api\KASHOP\KASHOP.BBL\bin\Debug\net9.0\KASHOP.BBL.dll
+C:\Users\hp\Desktop\asp\api\KASHOP\KASHOP.BBL\bin\Debug\net9.0\KASHOP.BBL.pdb
+C:\Users\hp\Desktop\asp\api\KASHOP\KASHOP.BBL\bin\Debug\net9.0\KASHOP.DAL.dll
+C:\Users\hp\Desktop\asp\api\KASHOP\KASHOP.BBL\bin\Debug\net9.0\KASHOP.DAL.pdb
+C:\Users\hp\Desktop\asp\api\KASHOP\KASHOP.BBL\obj\Debug\net9.0\KASHOP.BBL.csproj.AssemblyReference.cache
+C:\Users\hp\Desktop\asp\api\KASHOP\KASHOP.BBL\obj\Debug\net9.0\KASHOP.BBL.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\hp\Desktop\asp\api\KASHOP\KASHOP.BBL\obj\Debug\net9.0\KASHOP.BBL.AssemblyInfoInputs.cache
+C:\Users\hp\Desktop\asp\api\KASHOP\KASHOP.BBL\obj\Debug\net9.0\KASHOP.BBL.AssemblyInfo.cs
+C:\Users\hp\Desktop\asp\api\KASHOP\KASHOP.BBL\obj\Debug\net9.0\KASHOP.BBL.csproj.CoreCompileInputs.cache
+C:\Users\hp\Desktop\asp\api\KASHOP\KASHOP.BBL\obj\Debug\net9.0\KASHOP.BBL.csproj.Up2Date
+C:\Users\hp\Desktop\asp\api\KASHOP\KASHOP.BBL\obj\Debug\net9.0\KASHOP.BBL.dll
+C:\Users\hp\Desktop\asp\api\KASHOP\KASHOP.BBL\obj\Debug\net9.0\refint\KASHOP.BBL.dll
+C:\Users\hp\Desktop\asp\api\KASHOP\KASHOP.BBL\obj\Debug\net9.0\KASHOP.BBL.pdb
+C:\Users\hp\Desktop\asp\api\KASHOP\KASHOP.BBL\obj\Debug\net9.0\ref\KASHOP.BBL.dll
