@@ -9,7 +9,7 @@ namespace KASHOP.DAL.Repositry
 {
     public interface ICategoryRepository : IGenericRepository<Category>
     {
-       Task<List<Category>> GetAllAsync();
+       Task<List<Category>> GetAllAsync(string[]? includes = null);
        Task< Category >CreateAsync(Category category);
 
     }

@@ -24,10 +24,16 @@ namespace KASHOP.DAL.Repositry
             return Entity;
         }
 
-        public async Task<List<T>> GetAllAsync()
+        public async Task<List<T>> GetAllAsync(string[]? includes =null)
         {
-            //.Include(c => c.translations).
-            return await _context.Set<T>().ToListAsync(); 
+            IQueryable<T> query = _context.Set<T>();
+            if (includes != null) // معناها عندي ريليشن 
+            { foreach (var include in includes )
+                {
+                    query = query.Include(include);
+                }
+            }
+            return await query.ToListAsync();
         }
     }
 }

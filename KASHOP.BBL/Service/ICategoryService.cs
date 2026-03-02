@@ -10,7 +10,7 @@ namespace KASHOP.BBL.Service
 {
    public interface ICategoryService 
     {
-       Task< List<CategoryResponse> >GetAllCategoriesAsync();
+       Task< List<CategoryResponse>>GetAllCategoriesAsync();
        Task< CategoryResponse> CreateCategoryAsync(CategoryRequest request);
     }
 }

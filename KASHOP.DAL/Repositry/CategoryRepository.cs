@@ -9,8 +9,11 @@ using Microsoft.EntityFrameworkCore;
 
 namespace KASHOP.DAL.Repositry
 {
-   public class CategoryRepository : GenericRepository<Category> , ICategoryRepository
+    public class CategoryRepository : GenericRepository<Category>, ICategoryRepository
     {
-        public CategoryRepository(ApplicationDbContext context) : base(context) { }
+        public CategoryRepository(ApplicationDbContext context)
+            : base(context)
+        {
+        }
     }
 }
